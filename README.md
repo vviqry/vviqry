@@ -33,8 +33,6 @@ const fikri = {
 };
 ```
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" alt="Cat" width="120" />
-
 - 🔭 Currently building **Chill Movie** — a Netflix-style streaming web app with React & Redux
 - 💻 Experienced in **React**, **Redux Toolkit**, **Zustand**, **Axios**, and **REST API integration**
 - 🎨 Passionate about crafting **pixel-perfect UI** with modern design systems
@@ -168,9 +166,5 @@ const fikri = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1E93,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
-
-**⭐ From [vviqry](https://github.com/vviqry) with 💙**
-
-*"Building the web, one component at a time."*
 
 </div>
