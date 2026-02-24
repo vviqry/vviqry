@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Assalamu'alaikum+%F0%9F%91%8B;Frontend+Developer+dari+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Road+to+be...+helpful+%F0%9F%9A%80;Selalu+belajar+hal+baru+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%7C+React+Specialist+%F0%9F%92%BB;Building+Modern+%26+Responsive+Web+Applications+%F0%9F%9A%80;Clean+Code+%C2%B7+Pixel+Perfect+%C2%B7+Performance+Driven+%E2%9A%A1;Open+to+Work+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,19 +27,19 @@ const fikri = {
     username: "vviqry",
     location: "Indonesia 🇮🇩",
     role: "Frontend Developer",
-    motto: "Road to be... helpful 🚀",
-    currentFocus: "Building beautiful & functional web apps",
-    funFact: "I believe good code is like good art — it should be beautiful and useful"
+    specialization: ["React", "Vite", "Redux Toolkit", "REST API"],
+    currentFocus: "Building scalable & user-centric web applications",
+    openToWork: true
 };
 ```
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" alt="Cat" width="120" />
 
-- 🔭 Sedang mengerjakan **Chill Movie** — Netflix-style streaming app
-- 🌱 Mendalami **React**, **Redux Toolkit**, dan **REST API Integration**
-- 💡 Suka eksplorasi UI/UX design dan bikin frontend yang interaktif
-- 🎯 Goal 2026: Jadi fullstack developer yang handal
-- ⚡ Fun fact: Selain ngoding, saya juga suka eksplorasi ide bisnis & self-improvement
+- 🔭 Currently building **Chill Movie** — a Netflix-style streaming web app with React & Redux
+- 💻 Experienced in **React**, **Redux Toolkit**, **Zustand**, **Axios**, and **REST API integration**
+- 🎨 Passionate about crafting **pixel-perfect UI** with modern design systems
+- 🚀 Goal 2026: Transition into a **Full-Stack Developer** role
+- 🤝 **Open to frontend developer opportunities** — let's build something great together!
 
 ---
 
@@ -192,6 +192,6 @@ const fikri = {
 
 **⭐ From [vviqry](https://github.com/vviqry) with 💙**
 
-*"Road to be... helpful"*
+*"Building the web, one component at a time."*
 
 </div>
