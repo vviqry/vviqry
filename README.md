@@ -55,11 +55,6 @@ const fikri = {
   <img src="https://skillicons.dev/icons?i=redux,firebase,git,github,vscode&theme=dark" alt="Tools" />
 </p>
 
-### 🗄️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs&theme=dark" alt="Backend Skills" />
-</p>
-
 ### 📚 Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,typescript&theme=dark" alt="Learning" />
