@@ -33,7 +33,7 @@ const fikri = {
 };
 ```
 
-- 🔭 Currently building **Chill Movie** — a Netflix-style streaming web app with React & Redux
+- 🔭 Currently building **Chill Movie** — a Netflix-style streaming web app with React & Zustand
 - 💻 Experienced in **React**, **Redux Toolkit**, **Zustand**, **Axios**, and **REST API integration**
 - 🎨 Passionate about crafting **pixel-perfect UI** with modern design systems
 - 🚀 Goal 2026: Transition into a **Full-Stack Developer** role
