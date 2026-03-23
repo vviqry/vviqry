@@ -26,17 +26,17 @@ const fikri = {
     name: "Mutsaqoful Fikri",
     username: "vviqry",
     location: "Indonesia 🇮🇩",
-    role: "Web Developer & Front End Specialist",
-    specialization: ["React", "Express.js", "MySQL", "MongoDB", "REST API"],
-    currentFocus: "Building scalable full-stack web applications",
+    role: "Web Developer, Front End Specialist",
+    specialization: ["React", "Vite", "Redux", "Zustand", "REST API"],
+    currentFocus: "Building scalable & user-centric web applications",
     openToWork: true
 };
 ```
 
 - 🔭 Currently building **Chill Movie** — a Netflix-style streaming web app with React & Zustand
-- 💻 Experienced in **React**, **Node.js**, **Express**, **MySQL**, **MongoDB**, and **REST API integration**
-- 🎨 Passionate about crafting **pixel-perfect UI** & **robust backend architectures**
-- 🚀 Goal 2026: Transition into a **Full-Stack Developer** role
+- 💻 Experienced in **React**, **Redux Toolkit**, **Zustand**, **Axios**, and **REST API integration**
+- 🎨 Passionate about crafting **pixel-perfect UI** with modern design systems
+- 🚀 Goal 2026: Transition into a **Full-Stack Developer** role (Currently exploring Node.js & Express)
 - 🤝 **Open to frontend/web developer opportunities** — let's build something great together!
 
 ---
