@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1E93,50:1a1a2e,100:16213e&height=220&section=header&text=Mutsaqoful%20Fikri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Enthusiast&descSize=18&descAlignY=55&descColor=8892b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1E93,50:1a1a2e,100:16213e&height=220&section=header&text=Mutsaqoful%20Fikri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Dev%2C%20Front%20End%20Specialist&descSize=18&descAlignY=55&descColor=8892b0" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -26,18 +26,18 @@ const fikri = {
     name: "Mutsaqoful Fikri",
     username: "vviqry",
     location: "Indonesia 🇮🇩",
-    role: "Frontend Developer",
-    specialization: ["React", "Vite", "Redux Toolkit", "REST API"],
-    currentFocus: "Building scalable & user-centric web applications",
+    role: "Web Developer & Front End Specialist",
+    specialization: ["React", "Express.js", "MySQL", "MongoDB", "REST API"],
+    currentFocus: "Building scalable full-stack web applications",
     openToWork: true
 };
 ```
 
 - 🔭 Currently building **Chill Movie** — a Netflix-style streaming web app with React & Zustand
-- 💻 Experienced in **React**, **Redux Toolkit**, **Zustand**, **Axios**, and **REST API integration**
-- 🎨 Passionate about crafting **pixel-perfect UI** with modern design systems
+- 💻 Experienced in **React**, **Node.js**, **Express**, **MySQL**, **MongoDB**, and **REST API integration**
+- 🎨 Passionate about crafting **pixel-perfect UI** & **robust backend architectures**
 - 🚀 Goal 2026: Transition into a **Full-Stack Developer** role
-- 🤝 **Open to frontend developer opportunities** — let's build something great together!
+- 🤝 **Open to frontend/web developer opportunities** — let's build something great together!
 
 ---
 
@@ -48,6 +48,11 @@ const fikri = {
 ### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="Frontend Skills" />
+</p>
+
+### 💻 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postman&theme=dark" alt="Backend & Database" />
 </p>
 
 ### ⚙️ State Management & Tools
@@ -91,41 +96,43 @@ const fikri = {
 </td>
 <td width="50%">
 
-<h3 align="center">💰 Kalender Cuan</h3>
+<h3 align="center">🎵 Music API</h3>
 <p align="center">
-  <a href="https://github.com/vviqry/Kalender-Cuan" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <a href="https://github.com/vviqry/music-api" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a>
 </p>
-<p align="center">Aplikasi kalender keuangan untuk tracking income & expense harian.</p>
+<p align="center">RESTful API aplikasi musik dengan integrasi Cloudinary untuk upload MP3 persistensi di Vercel.</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h3 align="center">🎯 FOKUS</h3>
+<h3 align="center">⚙️ Full-Stack Node API</h3>
 <p align="center">
-  <a href="https://github.com/vviqry/FOKUS" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <a href="https://github.com/vviqry/ex-knex-seq" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
 </p>
-<p align="center">Productivity app untuk membantu fokus dan mengelola waktu dengan efektif.</p>
+<p align="center">Robust REST API endpoints menggunakan Express.js, MySQL database, dan password encryption.</p>
 
 </td>
 <td width="50%">
 
-<h3 align="center">🥁 Drum Kit</h3>
+<h3 align="center">🚀 WS Vercel Backend</h3>
 <p align="center">
-  <a href="https://github.com/vviqry/Drum_Kit" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <a href="https://github.com/vviqry/ws-project" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   </a>
 </p>
-<p align="center">Interactive drum kit app — mainkan drum virtual langsung dari browser!</p>
+<p align="center">Aplikasi backend realtime menggunakan socket WebSockets dengan arsitektur serverless di Vercel.</p>
 
 </td>
 </tr>
